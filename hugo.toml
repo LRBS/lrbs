@@ -1,0 +1,6 @@
+baseURL = "https://lrbs.github.io/"
+languageCode = "en-us"
+ title = "Minhas desventuras pelas interwebs wowowowowowo"
+theme = "contrast-hugo"
+[permalinks]
+  posts = "/:filename/"
